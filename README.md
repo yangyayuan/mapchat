@@ -2,23 +2,17 @@
 
 ## 一 项目界面    
 
-<figure class="third">
+
 ![image](https://github.com/yangyayuan/mapchat/blob/master/screenshots%26apk/chat.png)
 ![image](https://github.com/yangyayuan/mapchat/blob/master/screenshots%26apk/contacts.png)
 ![image](https://github.com/yangyayuan/mapchat/blob/master/screenshots%26apk/friend.jpg)
-</figure>  
-
-<figure class="third">
 ![image](https://github.com/yangyayuan/mapchat/blob/master/screenshots%26apk/listview.png)
 ![image](https://github.com/yangyayuan/mapchat/blob/master/screenshots%26apk/mapLocation.png)
 ![image](https://github.com/yangyayuan/mapchat/blob/master/screenshots%26apk/me.png)
-</figure>  
-
-<figure class="third">
 ![image](https://github.com/yangyayuan/mapchat/blob/master/screenshots%26apk/more.png)
 ![image](https://github.com/yangyayuan/mapchat/blob/master/screenshots%26apk/submit.png)
 ![image](https://github.com/yangyayuan/mapchat/blob/master/screenshots%26apk/web.png)
-</figure>  
+
 
 ## 二 简介  
 
