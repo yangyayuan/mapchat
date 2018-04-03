@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mapchat.chat.activity.WebSiteActivity"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+            <TextView
+                android:id="@+id/name_detail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="name"
+                android:textSize="16sp"/>
+
+            <com.baidu.mapapi.map.MapView
+                android:id="@+id/mymapview"
+                android:layout_width="match_parent"
+                android:layout_height="100dp">
+
+            </com.baidu.mapapi.map.MapView>
+
+            <TextView
+                android:id="@+id/description_detail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/name_detail"
+                android:layout_marginTop="5dp"
+                android:text="description"
+                android:textColor="@android:color/holo_red_light"
+                android:textSize="14sp"/>
+
+            <ImageView
+                android:layout_marginTop="5dp"
+                android:id="@+id/image_detail"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="fitStart"
+                android:layout_below="@+id/description_detail"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/mybutton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/imagebutton"/>
+
+        <ImageButton
+            android:id="@+id/mybutton2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/imagebutton"/>
+
+        <ImageButton
+            android:id="@+id/mybutton3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/imagebutton"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>  
