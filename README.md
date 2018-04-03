@@ -1,8 +1,11 @@
 # MapChat
 
   
-  APK下载
-  [点我下载](/mapchat.apk)
+  APK下载  
+  
+  [点我下载](/mapchat.apk)  
+
+
   ![image](https://github.com/yangyayuan/mapchat/blob/master/screenshots%26apk/1522761370.png)
 
 ## 一 项目界面    
